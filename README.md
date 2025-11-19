@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 - 💻 I enjoy working on full-stack development and machine learning projects
 - 🌱 Currently exploring AI/ML integration and database management systems
 - 🤖 Interested in chatbots, web development, and predictive analytics
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: danushumesh79@gmail.com
 
 ## 🛠️ Tech Stack
 
