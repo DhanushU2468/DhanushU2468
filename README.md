@@ -1,30 +1,111 @@
-# Hi there, I'm Dhanush 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer interested in building practical applications and exploring new technologies.
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dhanush
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Practical+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-- 💻 I enjoy working on full-stack development and machine learning projects
-- 🌱 Currently exploring AI/ML integration and database management systems
-- 🤖 Interested in chatbots, web development, and predictive analytics
-- 📫 How to reach me: danushumesh79@gmail.com
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 About Me
+
+</div>
+
+```python
+class Dhanush:
+    def __init__(self):
+        self.name = "Dhanush"
+        self.role = "Developer"
+        self.interests = [
+            "Full-Stack Development",
+            "Machine Learning",
+            "Chatbot Development",
+            "Database Management"
+        ]
+        self.current_focus = "AI/ML Integration"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = Dhanush()
+me.say_hi()
+```
+
+---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git,github,vscode,jupyter&theme=dark" />
 
-**Tools & Technologies:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+</div>
+
+---
+
+<div align="center">
 
 
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<div align="center">
 
+## 🎯 Current Focus
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px"/>
+      <br><b>AI/ML Integration</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60px"/>
+      <br><b>Database Systems</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60px"/>
+      <br><b>Web Development</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danushumesh79@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhanushU2468)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+<div align="center">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+
+</div>
